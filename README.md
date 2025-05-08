@@ -6,7 +6,7 @@
 
 I am a civil engineering graduate. I want to try a career as a software developer.
 
-I'm currently selling fried foods, seblak, etc. in the school canteen and in my spare time, I study programming.
+I'm currently selling fried foods, seblak, etc. in the school canteen. In my spare time, I study programming.
 
 I’m currently learning javascript. I’m looking to collaborate on front-end developer in Indonesia.
 
